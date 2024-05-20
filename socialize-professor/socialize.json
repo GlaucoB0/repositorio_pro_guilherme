@@ -1,0 +1,46 @@
+[
+  {
+    "nome": "Kleiton Rasta",
+    "email": "regga@gmail.com",
+    "senha": "123456",
+    "id": "7f1ffa65-706c-48de-b799-8f6021068ae8",
+    "perfil": {
+      "nome": "Kleiton Rasta",
+      "bio": "Unidor de facc",
+      "caminhoImagem": "C:\\Users\\3°E\\Desktop\\Socialize\\socialize-professor\\imagens\\7f1ffa65-706c-48de-b799-8f6021068ae8.png"
+    }
+  },
+  {
+    "nome": "AzeitonaOfc",
+    "email": "djazeitona@gmail.com",
+    "senha": "123456",
+    "id": "9ea1109d-af7d-4f60-af15-f60706c10717",
+    "perfil": {
+      "nome": "Dj Azeitona",
+      "bio": "cria do Complexo do Alemão",
+      "caminhoImagem": "C:\\Users\\3°E\\Desktop\\Socialize\\socialize-professor\\imagens\\9ea1109d-af7d-4f60-af15-f60706c10717.png"
+    }
+  },
+  {
+    "nome": "Bruno henrique",
+    "email": "bruninho@gmail.com",
+    "senha": "corinthians123",
+    "id": "cdd1011a-8fed-4f6a-8f02-5502426ba746",
+    "perfil": {
+      "nome": "Bruno Henrique",
+      "bio": "Esforça-te",
+      "caminhoImagem": "C:\\Users\\3°E\\Desktop\\Socialize\\socialize-professor\\imagens\\cdd1011a-8fed-4f6a-8f02-5502426ba746.png"
+    }
+  },
+  {
+    "nome": "Bluezao",
+    "email": "omaisgostoso@gmail.com",
+    "senha": "cachorrinho123",
+    "id": "01c3c501-e72e-4164-b728-fdd16685d921",
+    "perfil": {
+      "nome": "Bluezao",
+      "bio": "Músico e amante por animais",
+      "caminhoImagem": "C:\\Users\\3°E\\Desktop\\Socialize\\socialize-professor\\imagens\\01c3c501-e72e-4164-b728-fdd16685d921.png"
+    }
+  }
+]
