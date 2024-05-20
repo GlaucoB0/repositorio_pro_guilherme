@@ -1,0 +1,33 @@
+[
+  {
+    "nome": "risoto de funghi",
+    "categoria": "pratos principais",
+    "ingredientes": [
+      "200g de arroz arbóreo",
+      "50g de funghi secchi",
+      "1 cebola picada",
+      "2 dentes de alho picados",
+      "100ml de vinho branco seco",
+      "1 litro de caldo de legumes",
+      "50g de manteiga",
+      "Queijo parmesão ralado a gosto",
+      "Sal e pimenta a gosto"
+    ],
+    "Modo de Preparo": "Refogue a cebola e o alho em um pouco de azeite. Adicione o arroz arbóreo e mexa por alguns minutos. Acrescente o vinho branco e deixe evaporar. Hidrate o funghi secchi em água quente por 15 minutos, escorra e pique. Adicione o funghi ao risoto e vá adicionando o caldo de legumes aos poucos, mexendo sempre, até o arroz estar cozido. Misture a manteiga e o queijo parmesão. Sirva quente, salpicado com mais queijo parmesão.",
+    "id": 1
+  },
+  {
+    "nome": "pavê de chocolate",
+    "categoria": "sobremesas",
+    "ingredientes": [
+      "200g de chocolate meio amargo",
+      "1 lata de creme de leite",
+      "1 lata de leite condensado",
+      "1 pacote de biscoito champanhe",
+      "1 xícara de leite",
+      "Cacau em pó para polvilhar"
+    ],
+    "Modo de Preparo": "Derreta o chocolate meio amargo em banho-maria e misture com o creme de leite. Em um refratário, faça camadas alternadas de biscoito champanhe umedecidas no leite e creme de chocolate. Leve à geladeira por algumas horas. Antes de servir, polvilhe cacau em pó por cima.",
+    "id": 2
+  }
+]
